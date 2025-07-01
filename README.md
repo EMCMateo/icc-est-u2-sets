@@ -17,7 +17,7 @@ Este proyecto implementa LOS DISTINTOS METODOS SETS.
 
 - Usar todos los metodos Sets
 
-La lógica principal se encuentra en [`src.controllers.Sets.java`] y se ejecuta en (src/app.java)
+La lógica principal se encuentra en [`src.controllers.Sets.java`] y se ejecuta en ['src/app.java']
 
 ---
 
@@ -26,7 +26,7 @@ La lógica principal se encuentra en [`src.controllers.Sets.java`] y se ejecuta 
 Para compilar y ejecutar el proyecto desde la terminal:
 
 ```sh
-javac -d bin src/App.java src/materia/controllers/ArbolBinario.java src/materia/models/Nodo.java
+javac -d bin src/App.java src/controllers/Sets.java 
 java -cp bin App
 ```
 
