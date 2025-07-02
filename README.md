@@ -35,7 +35,11 @@ java -cp bin App
 ## 🧑‍💻 Ejemplo de Salida
 
 
+![alt text](image-1.png)
+
 ![alt text](image.png)
+
+
 
 
 ```plaintext
@@ -86,7 +90,18 @@ src/
       Sets.java
     
 ```
-
+-------------------MATEO EDUARDO MOLINA CHAMBA----------------------
+Contacto: nombre=Pedro, apellido=Gonzales
+Contacto: nombre=Pedro, apellido=Lopez
+Contacto: nombre=Ana, apellido=Perez
+Contacto: nombre=Luis, apellido=Perez
+-------------------------------------------
+Contacto: nombre=Pedro, apellido=Gonzales
+Contacto: nombre=Pedro, apellido=Lopez
+Contacto: nombre=Pedro, apellido=Lopez
+Contacto: nombre=Ana, apellido=Perez
+Contacto: nombre=Luis, apellido=Perez
+PS C:\Users\Mateo Molina\EstrDeDatos\icc-est-u2-sets> 
 ---
 
 ## 📄 Notas

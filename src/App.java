@@ -1,11 +1,12 @@
 
 import controller.Sets;
 import java.util.*;
-
+import controller.ContactoController;
 public class App {
     public static void main(String[] args) throws Exception {
         Sets sts = new Sets();
         System.out.println("-------------------MATEO EDUARDO MOLINA CHAMBA----------------------");
+        /* 
         System.out.println("-------------------HashSET----------------------");
         runHashSet(sts);
         System.out.println("-----------------LinkedHashSet---------------------");
@@ -16,6 +17,9 @@ public class App {
         runTreeSetComparador(sts);
         System.out.println("-----------------TreeSetComparacionAlfabetico---------------------");
         runTreeSetComparadorAlfabetico(sts);
+        */
+
+        ContactoController contactoController = new ContactoController();
     }
     
     public static void runHashSet (Sets set){
