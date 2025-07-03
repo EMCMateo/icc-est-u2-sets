@@ -1,7 +1,7 @@
 
+import controller.Ejercicios;
 import controller.Sets;
 import java.util.*;
-import controller.ContactoController;
 public class App {
     public static void main(String[] args) throws Exception {
         Sets sts = new Sets();
@@ -19,7 +19,9 @@ public class App {
         runTreeSetComparadorAlfabetico(sts);
         */
 
-        ContactoController contactoController = new ContactoController();
+        /* ContactoController contactoController = new ContactoController(); */
+
+        Ejercicios ejercicios = new Ejercicios();
     }
     
     public static void runHashSet (Sets set){
